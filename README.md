@@ -61,3 +61,7 @@ This is my Lab
 Edit for Lab Section 041L
 -
 If you're seeing this change in your own repo, you have successfully completed Step 7!
+
+Edit for late lab submissions
+-
+If you're seeing this change in your own repo, you have successfully completed Step 7!
